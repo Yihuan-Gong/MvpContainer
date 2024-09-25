@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpContainer", "MvpContainer\MvpContainer.csproj", "{2A63A370-9241-44DD-AC1A-BADFBD2C6A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A63A370-9241-44DD-AC1A-BADFBD2C6A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A63A370-9241-44DD-AC1A-BADFBD2C6A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A63A370-9241-44DD-AC1A-BADFBD2C6A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A63A370-9241-44DD-AC1A-BADFBD2C6A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4609474-BA0C-4A21-9942-96E4F75DA00E}
+	EndGlobalSection
+EndGlobal
